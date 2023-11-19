@@ -1,0 +1,17 @@
+    
+    
+button {
+    padding: 15px 30px;
+    background-color: rgba(192, 192, 192, 0.7); /* Gris claro y transparente */
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+    background-color: rgba(128, 128, 128, 0.7); /* Cambio de color al pasar el cursor */
+    transform: scale(1.05); /* Escala el botón al pasar el cursor */
+}
