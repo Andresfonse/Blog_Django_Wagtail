@@ -28,7 +28,7 @@ Siga estos pasos para configurar y ejecutar el proyecto en su entorno local:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-blog-django-wagtail.git
+   git clone git@github.com:Andresfonse/Blog_Django_Wagtail.git
 Instala las dependencias:
 
 bash
