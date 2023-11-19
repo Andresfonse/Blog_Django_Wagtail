@@ -17,31 +17,6 @@ El objetivo principal de este proyecto es proporcionar un blog dinámico y flexi
 - **HTML/CSS**
 - **JavaScript (opcional para funcionalidades adicionales)**
 
-## Estructura del Proyecto
-
-proyecto-blog-django-wagtail/
-│
-├── blog/
-│ ├── templates/
-│ │ ├── base.html
-│ │ ├──
-│ │ └── ...
-│ ├── models.py
-│ ├── views.py
-│ └── ...
-│
-├── static/
-│ ├── css/
-│ │ ├── styles.css
-│ │ └── ...
-│ ├── js/
-│ │ ├── main.js
-│ │ └── ...
-│ └── ...
-│
-├── manage.py
-├── requirements.txt
-└── ...
 
 bash
 Copy code
